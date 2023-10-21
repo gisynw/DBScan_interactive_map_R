@@ -1,4 +1,4 @@
-##input data: sho_1314 has a column (Clusters) that reocrd the cluster fo reach observation
+##input data: shp_1314 has a column (Clusters) that reocrd the cluster fo reach observation
 
 shp_1314$Clusters
 
